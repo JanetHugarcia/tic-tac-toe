@@ -1,0 +1,41 @@
+h1{
+	background-color:tomato;
+	color:white;
+	margin:0;
+	padding:10px;
+}
+p{
+	font-size: 30px;
+	font-weight: 400;
+}
+.negro{
+	color:black;
+}
+.azul{
+	color:blue;
+}
+.rojo{
+	color:red;
+}
+#padre{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+button{
+	width: 80px;
+	height: 80px;
+	margin:2px;
+}
+.boton{
+	background-color: #FFC300 ;
+	font-size: 26px;
+	font-weight: 600;
+}
+.btnNew{
+	height: 60px;
+	width: 246px;
+	background-color:steelblue;
+	color:white;
+	font-size: 30px;
+	font-weight: 700;
+}
